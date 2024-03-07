@@ -1,9 +1,0 @@
-pandas
-streamlit
-matplotlib
-datetime
-scikit-learn
-joblib
-bs4
-lxml
-
